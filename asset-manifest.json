@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mimi-Mahamah/ReactJs-Assignment.git/static/css/main.80bb4f68.chunk.css",
+    "main.js": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/main.1c772471.chunk.js",
+    "main.js.map": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/main.1c772471.chunk.js.map",
+    "runtime-main.js": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/runtime-main.8ad5d110.js",
+    "runtime-main.js.map": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/runtime-main.8ad5d110.js.map",
+    "static/js/2.3010f1db.chunk.js": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/2.3010f1db.chunk.js",
+    "static/js/2.3010f1db.chunk.js.map": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/2.3010f1db.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/Mimi-Mahamah/ReactJs-Assignment.git/index.html",
+    "static/css/main.80bb4f68.chunk.css.map": "/Mimi-Mahamah/ReactJs-Assignment.git/static/css/main.80bb4f68.chunk.css.map",
+    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/Mimi-Mahamah/ReactJs-Assignment.git/static/js/2.3010f1db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Mimi-Mahamah/ReactJs-Assignment.git/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ad5d110.js",
+    "static/js/2.3010f1db.chunk.js",
+    "static/css/main.80bb4f68.chunk.css",
+    "static/js/main.1c772471.chunk.js"
+  ]
+}
